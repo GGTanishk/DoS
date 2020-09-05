@@ -1,0 +1,2 @@
+# Denial of Service Attack
+ A Denial of Service attack (or DoS attack) is a cyber attack that the perpetrators use to disable a machine’s or a network’s resources. Attackers usually perform a DoS attacks on servers of enterprise companies to bring them down. A DoS attack is performed by sending the to-be infected host numerous packets of a kind, hence, causing an overload on that machine, and due to the overload, the machine would be unable to operate at its usual strength or it might just fail to perform at all.
